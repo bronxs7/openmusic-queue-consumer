@@ -18,7 +18,6 @@ class Listener {
           playlist: {
             id: playlist.id,
             name: playlist.name,
-            username: playlist.username,
             songs,
           },
         },
